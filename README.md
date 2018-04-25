@@ -1,5 +1,5 @@
 # AED
-AED Publico
-Juan Manuel Frei
-K1053
-2018
+Algoritmos y estructura de datos - Publico
+Juan Manuel Bottarelli Frei
+Curso K1053
+Año 2018
