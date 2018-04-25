@@ -12,11 +12,11 @@ ZxZ > Proceso (realizado por Adicion.cpp) > Z
 
 
 Representacion grafica del algoritmo a resolver en formato Nassi-Shneiderman
-![N-S]
+
 
 Representacion textual del algoritmo a resolver
 1- Leer A
 2- Leer B
 3- Mostrar A+B
 
-[N-S]: Grafico N-S.png
+
